@@ -31,7 +31,10 @@
 <div align="left">
     
 ## 🛠️ : [동작여부]
+<br>
 </div>
+
+## 기본 기능
 
 <div align ="center">
 <img width="807" alt="image" src="https://github.com/rkdaudgus94/VHDL-clock-system/assets/76949032/3127d5c1-931c-45fe-9670-70b18e4863db">
